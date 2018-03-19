@@ -1,0 +1,6 @@
+c:\users\exp\documents\visual studio 2015\Projects\FirstAngular\TypeScriptFirst\bin\TypeScriptFirst.dll.config
+c:\users\exp\documents\visual studio 2015\Projects\FirstAngular\TypeScriptFirst\bin\TypeScriptFirst.dll
+c:\users\exp\documents\visual studio 2015\Projects\FirstAngular\TypeScriptFirst\bin\TypeScriptFirst.pdb
+c:\users\exp\documents\visual studio 2015\Projects\FirstAngular\TypeScriptFirst\obj\Debug\TypeScriptFirst.csprojResolveAssemblyReference.cache
+c:\users\exp\documents\visual studio 2015\Projects\FirstAngular\TypeScriptFirst\obj\Debug\TypeScriptFirst.dll
+c:\users\exp\documents\visual studio 2015\Projects\FirstAngular\TypeScriptFirst\obj\Debug\TypeScriptFirst.pdb
